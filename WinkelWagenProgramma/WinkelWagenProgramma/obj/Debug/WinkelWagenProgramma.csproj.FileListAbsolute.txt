@@ -1,0 +1,9 @@
+C:\Users\joepb\source\repos\WinkelWagenProgramma\WinkelWagenProgramma\bin\Debug\WinkelWagenProgramma.exe.config
+C:\Users\joepb\source\repos\WinkelWagenProgramma\WinkelWagenProgramma\bin\Debug\WinkelWagenProgramma.exe
+C:\Users\joepb\source\repos\WinkelWagenProgramma\WinkelWagenProgramma\bin\Debug\WinkelWagenProgramma.pdb
+C:\Users\joepb\source\repos\WinkelWagenProgramma\WinkelWagenProgramma\obj\Debug\WinkelWagenProgramma.csprojAssemblyReference.cache
+C:\Users\joepb\source\repos\WinkelWagenProgramma\WinkelWagenProgramma\obj\Debug\WinkelWagenProgramma.Form1.resources
+C:\Users\joepb\source\repos\WinkelWagenProgramma\WinkelWagenProgramma\obj\Debug\WinkelWagenProgramma.Properties.Resources.resources
+C:\Users\joepb\source\repos\WinkelWagenProgramma\WinkelWagenProgramma\obj\Debug\WinkelWagenProgramma.csproj.GenerateResource.cache
+C:\Users\joepb\source\repos\WinkelWagenProgramma\WinkelWagenProgramma\obj\Debug\WinkelWagenProgramma.exe
+C:\Users\joepb\source\repos\WinkelWagenProgramma\WinkelWagenProgramma\obj\Debug\WinkelWagenProgramma.pdb
